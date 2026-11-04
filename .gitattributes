@@ -1,0 +1,5 @@
+# Saltos de línea LF: si user-data.sh llega con CRLF a la EC2, la página no se instala
+*.sh   text eol=lf
+*.php  text eol=lf
+*.tf   text eol=lf
+*.json text eol=lf

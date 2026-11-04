@@ -1,0 +1,13 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
+
+# Otros
+*.zip
+build/
+.vscode/
+.DS_Store
+Thumbs.db
